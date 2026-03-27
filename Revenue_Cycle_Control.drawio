@@ -11,7 +11,19 @@
           <mxGeometry height="260" width="1060" y="20" as="geometry" />
         </mxCell>
         <mxCell id="YRIQUkShzZtTHrAzclB5-5" parent="YRIQUkShzZtTHrAzclB5-2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;labelBorderColor=light-dark(#000000,#66FF66);" value="&lt;b&gt;START&lt;/b&gt;" vertex="1">
-          <mxGeometry height="25" width="60" x="20" y="5" as="geometry" />
+          <mxGeometry height="15" width="60" x="20" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="YRIQUkShzZtTHrAzclB5-6" parent="YRIQUkShzZtTHrAzclB5-2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="Customer Places Order" vertex="1">
+          <mxGeometry height="35" width="110" x="20" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="YRIQUkShzZtTHrAzclB5-12" parent="YRIQUkShzZtTHrAzclB5-2" style="shape=manualInput;whiteSpace=wrap;html=1;" value="Order Details Entered into System" vertex="1">
+          <mxGeometry height="70" width="140" x="20" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="YRIQUkShzZtTHrAzclB5-13" edge="1" parent="YRIQUkShzZtTHrAzclB5-2" source="YRIQUkShzZtTHrAzclB5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.395;entryY=0.288;entryDx=0;entryDy=0;entryPerimeter=0;" target="YRIQUkShzZtTHrAzclB5-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YRIQUkShzZtTHrAzclB5-15" edge="1" parent="YRIQUkShzZtTHrAzclB5-2" source="YRIQUkShzZtTHrAzclB5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.545;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="YRIQUkShzZtTHrAzclB5-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YRIQUkShzZtTHrAzclB5-3" parent="YRIQUkShzZtTHrAzclB5-1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" value="Warehouse Department" vertex="1">
           <mxGeometry height="260" width="1060" y="280" as="geometry" />
