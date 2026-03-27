@@ -4,17 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YRIQUkShzZtTHrAzclB5-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" value="Pool" vertex="1">
-          <mxGeometry height="800" width="1080" x="10" y="25" as="geometry" />
+        <mxCell id="YRIQUkShzZtTHrAzclB5-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" value="Kissena Bakery - Revenue Cycle (Order-to-Cash)" vertex="1">
+          <mxGeometry height="800" width="1060" x="20" y="25" as="geometry" />
         </mxCell>
-        <mxCell id="YRIQUkShzZtTHrAzclB5-2" parent="YRIQUkShzZtTHrAzclB5-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="Lane 1" vertex="1">
-          <mxGeometry height="260" width="1080" y="20" as="geometry" />
+        <mxCell id="YRIQUkShzZtTHrAzclB5-2" parent="YRIQUkShzZtTHrAzclB5-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="Ssales Department" vertex="1">
+          <mxGeometry height="260" width="1060" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="YRIQUkShzZtTHrAzclB5-3" parent="YRIQUkShzZtTHrAzclB5-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="Lane 2" vertex="1">
-          <mxGeometry height="260" width="1080" y="280" as="geometry" />
+        <mxCell id="YRIQUkShzZtTHrAzclB5-3" parent="YRIQUkShzZtTHrAzclB5-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="Warehouse Department" vertex="1">
+          <mxGeometry height="260" width="1060" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="YRIQUkShzZtTHrAzclB5-4" parent="YRIQUkShzZtTHrAzclB5-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="Lane 3" vertex="1">
-          <mxGeometry height="260" width="1080" y="540" as="geometry" />
+        <mxCell id="YRIQUkShzZtTHrAzclB5-4" parent="YRIQUkShzZtTHrAzclB5-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="Billing / Accounts Receivable" vertex="1">
+          <mxGeometry height="260" width="1060" y="540" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
