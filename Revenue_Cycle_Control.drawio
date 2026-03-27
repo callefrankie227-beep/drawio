@@ -25,6 +25,38 @@
         <mxCell id="YRIQUkShzZtTHrAzclB5-15" edge="1" parent="YRIQUkShzZtTHrAzclB5-2" source="YRIQUkShzZtTHrAzclB5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.545;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="YRIQUkShzZtTHrAzclB5-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="YRIQUkShzZtTHrAzclB5-16" parent="YRIQUkShzZtTHrAzclB5-2" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="Sales Order Generated" vertex="1">
+          <mxGeometry height="40" width="120" x="20" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="YRIQUkShzZtTHrAzclB5-17" edge="1" parent="YRIQUkShzZtTHrAzclB5-2" source="YRIQUkShzZtTHrAzclB5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.588;entryY=0.057;entryDx=0;entryDy=0;entryPerimeter=0;" target="YRIQUkShzZtTHrAzclB5-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YRIQUkShzZtTHrAzclB5-29" edge="1" parent="YRIQUkShzZtTHrAzclB5-2" source="YRIQUkShzZtTHrAzclB5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="38" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YRIQUkShzZtTHrAzclB5-30" connectable="0" parent="YRIQUkShzZtTHrAzclB5-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes - Approved" vertex="1">
+          <mxGeometry relative="1" x="-0.2621" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YRIQUkShzZtTHrAzclB5-32" edge="1" parent="YRIQUkShzZtTHrAzclB5-2" source="YRIQUkShzZtTHrAzclB5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250.0000000000001" y="125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YRIQUkShzZtTHrAzclB5-33" connectable="0" parent="YRIQUkShzZtTHrAzclB5-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No - Rejected" vertex="1">
+          <mxGeometry relative="1" x="-0.066" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YRIQUkShzZtTHrAzclB5-18" parent="YRIQUkShzZtTHrAzclB5-2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="Credit Check Approved" vertex="1">
+          <mxGeometry height="65" width="120" x="190" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="YRIQUkShzZtTHrAzclB5-31" edge="1" parent="YRIQUkShzZtTHrAzclB5-2" source="YRIQUkShzZtTHrAzclB5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="YRIQUkShzZtTHrAzclB5-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YRIQUkShzZtTHrAzclB5-3" parent="YRIQUkShzZtTHrAzclB5-1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" value="Warehouse Department" vertex="1">
           <mxGeometry height="260" width="1060" y="280" as="geometry" />
         </mxCell>
