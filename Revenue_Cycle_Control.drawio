@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6" pages="2">
   <diagram name="Page-1" id="h4K6F-MwLLIE6nbJ4Lem">
-    <mxGraphModel dx="476" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1142" dy="1400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -102,14 +102,31 @@
         <mxCell id="56QyWNjgPx4Id85Vn9UV-34" parent="YRIQUkShzZtTHrAzclB5-3" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="Packing Slip Generated" vertex="1">
           <mxGeometry height="57.5" width="150" x="490" y="103.75" as="geometry" />
         </mxCell>
+        <mxCell id="56QyWNjgPx4Id85Vn9UV-40" edge="1" parent="YRIQUkShzZtTHrAzclB5-3" source="56QyWNjgPx4Id85Vn9UV-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="56QyWNjgPx4Id85Vn9UV-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="56QyWNjgPx4Id85Vn9UV-37" parent="YRIQUkShzZtTHrAzclB5-3" style="whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="Shipping Authorization Verified" vertex="1">
           <mxGeometry height="60" width="120" x="735" y="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="56QyWNjgPx4Id85Vn9UV-39" parent="YRIQUkShzZtTHrAzclB5-3" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=offPageConnector;rounded=0;size=0.5833333333333334;" value="--&amp;gt; Continued Page 2" vertex="1">
+          <mxGeometry height="60" width="60" x="930" y="100" as="geometry" />
         </mxCell>
         <mxCell id="YRIQUkShzZtTHrAzclB5-4" parent="YRIQUkShzZtTHrAzclB5-1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="Billing / Accounts Receivable" vertex="1">
           <mxGeometry height="260" width="1060" y="540" as="geometry" />
         </mxCell>
         <mxCell id="56QyWNjgPx4Id85Vn9UV-26" edge="1" parent="YRIQUkShzZtTHrAzclB5-1" source="t5b1gRXeWF2VpEIoPn1B-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="t5b1gRXeWF2VpEIoPn1B-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FlXhs_N5L0qdeHOVqV47" name="Page-2">
+    <mxGraphModel dx="761" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n6TLP_hfteXbfA5Bm4CJ-1" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=offPageConnector;rounded=0;size=0.75;" value="Continued Page 2" vertex="1">
+          <mxGeometry height="60" width="60" x="40" y="395" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
