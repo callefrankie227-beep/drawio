@@ -121,7 +121,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FlXhs_N5L0qdeHOVqV47" name="Page-2">
-    <mxGraphModel dx="761" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="634" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,11 +134,58 @@
         <mxCell id="H234drzx0pEjhdxoLlnw-18" parent="H234drzx0pEjhdxoLlnw-1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" value="Warehouse Department" vertex="1">
           <mxGeometry height="260" width="1060" y="280" as="geometry" />
         </mxCell>
+        <mxCell id="H234drzx0pEjhdxoLlnw-37" edge="1" parent="H234drzx0pEjhdxoLlnw-18" source="n6TLP_hfteXbfA5Bm4CJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="H234drzx0pEjhdxoLlnw-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n6TLP_hfteXbfA5Bm4CJ-1" parent="H234drzx0pEjhdxoLlnw-18" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=offPageConnector;rounded=0;size=0.75;" value="Continued Page 2" vertex="1">
           <mxGeometry height="60" width="60" x="40" y="15" as="geometry" />
         </mxCell>
+        <mxCell id="H234drzx0pEjhdxoLlnw-36" parent="H234drzx0pEjhdxoLlnw-18" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="Goods DIspatched to Customer" vertex="1">
+          <mxGeometry height="65" width="170" x="190" y="88" as="geometry" />
+        </mxCell>
         <mxCell id="H234drzx0pEjhdxoLlnw-34" parent="H234drzx0pEjhdxoLlnw-1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="Billing / Accounts Receivable" vertex="1">
           <mxGeometry height="260" width="1060" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="H234drzx0pEjhdxoLlnw-42" edge="1" parent="H234drzx0pEjhdxoLlnw-34" source="H234drzx0pEjhdxoLlnw-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="H234drzx0pEjhdxoLlnw-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H234drzx0pEjhdxoLlnw-39" parent="H234drzx0pEjhdxoLlnw-34" style="whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;rounded=0;" value="Dispatch Confirmation Received" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="H234drzx0pEjhdxoLlnw-44" edge="1" parent="H234drzx0pEjhdxoLlnw-34" source="H234drzx0pEjhdxoLlnw-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="H234drzx0pEjhdxoLlnw-43" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H234drzx0pEjhdxoLlnw-45" connectable="0" parent="H234drzx0pEjhdxoLlnw-44" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Customer Remits Payment" vertex="1">
+          <mxGeometry relative="1" x="-0.0722" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H234drzx0pEjhdxoLlnw-41" parent="H234drzx0pEjhdxoLlnw-34" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="Invoice Generated &amp;amp; Sent to Customer" vertex="1">
+          <mxGeometry height="65" width="120" x="250" y="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="H234drzx0pEjhdxoLlnw-51" edge="1" parent="H234drzx0pEjhdxoLlnw-34" source="H234drzx0pEjhdxoLlnw-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="H234drzx0pEjhdxoLlnw-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H234drzx0pEjhdxoLlnw-43" parent="H234drzx0pEjhdxoLlnw-34" style="whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="Payment Recieved From Customer" vertex="1">
+          <mxGeometry height="60" width="120" x="640" y="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="H234drzx0pEjhdxoLlnw-53" edge="1" parent="H234drzx0pEjhdxoLlnw-34" source="H234drzx0pEjhdxoLlnw-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="H234drzx0pEjhdxoLlnw-52" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H234drzx0pEjhdxoLlnw-47" parent="H234drzx0pEjhdxoLlnw-34" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="Remittance Advice Recorded" vertex="1">
+          <mxGeometry height="65" width="120" x="900" y="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ovlR0mKiOv1pOY2iV2JF-2" edge="1" parent="H234drzx0pEjhdxoLlnw-34" source="H234drzx0pEjhdxoLlnw-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ovlR0mKiOv1pOY2iV2JF-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H234drzx0pEjhdxoLlnw-52" parent="H234drzx0pEjhdxoLlnw-34" style="whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="Cash Posted to Accounts Recievable" vertex="1">
+          <mxGeometry height="60" width="120" x="900" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="ovlR0mKiOv1pOY2iV2JF-1" parent="H234drzx0pEjhdxoLlnw-34" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;fillColor=light-dark(#60A917,#003300);strokeColor=#2D7600;fontColor=#ffffff;labelBorderColor=light-dark(#000000,#66FF66);" value="&lt;b&gt;END&lt;/b&gt;" vertex="1">
+          <mxGeometry height="25" width="90" x="730" y="192.5" as="geometry" />
+        </mxCell>
+        <mxCell id="H234drzx0pEjhdxoLlnw-40" edge="1" parent="H234drzx0pEjhdxoLlnw-1" source="H234drzx0pEjhdxoLlnw-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="H234drzx0pEjhdxoLlnw-39" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
