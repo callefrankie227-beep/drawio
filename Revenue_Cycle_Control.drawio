@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" pages="2">
   <diagram name="Page-1" id="h4K6F-MwLLIE6nbJ4Lem">
-    <mxGraphModel dx="1050" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="709" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -104,7 +104,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="56QyWNjgPx4Id85Vn9UV-34" parent="YRIQUkShzZtTHrAzclB5-3" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="Packing Slip Generated" vertex="1">
+        <mxCell id="56QyWNjgPx4Id85Vn9UV-34" parent="YRIQUkShzZtTHrAzclB5-3" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" value="Packing Slip Generated" vertex="1">
           <mxGeometry height="56.25" width="130" x="460" y="104.36999999999999" as="geometry" />
         </mxCell>
         <mxCell id="56QyWNjgPx4Id85Vn9UV-40" edge="1" parent="YRIQUkShzZtTHrAzclB5-3" source="56QyWNjgPx4Id85Vn9UV-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="56QyWNjgPx4Id85Vn9UV-39">
